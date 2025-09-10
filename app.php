@@ -2,7 +2,7 @@
     declare(strict_types = 1);
     $book = [
         'The Joy Luck Club'   => ['author' => 'Amy Tan', 'price' => 13.00, 'stock' => 1],
-        'Pride and Predudice' => ['author' => 'Jane Austin', 'price' => 12.00, 'stock' => 6],
+        'Pride and Prejudice' => ['author' => 'Jane Austin', 'price' => 12.00, 'stock' => 6],
         'American Psycho'     => ['author' => 'Bret Easton Elis', 'price' => 20.00, 'stock' => 1],
         'The Federalist'      => ['author' => 'Alexander Hamilton', 'price' => 14.00, 'stock' => 2],
         'Scythe'              => ['author' => 'Neil Shusterman', 'price' => 16.00, 'stock' => 1],
